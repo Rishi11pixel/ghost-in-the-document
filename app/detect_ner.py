@@ -1,0 +1,1 @@
+"""Local named-entity detection (GLiNER/spaCy will be added in Rung 2)."""

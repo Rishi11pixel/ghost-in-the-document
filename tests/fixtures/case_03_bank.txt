@@ -1,0 +1,6 @@
+SYNTHETIC CASE 03 — fictional banking note
+Account number: 123456789012
+IFSC: ABCD0123456
+Card test number: 4111 1111 1111 1111
+PIN code: 560001
+Account holder: Jamie Fiction

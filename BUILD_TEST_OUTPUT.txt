@@ -1,0 +1,5 @@
+Test run: 57 passed
+Command: python -m pytest -q
+
+Baseline benchmark command: python -m app.evaluate
+Baseline: 10 synthetic files, 62 expected (filename, text) spans, 44 true positives, 0 false positives, 18 misses; precision 1.0000, recall 0.7097, F1 0.8302. These are small synthetic-fixture results, not a real-world privacy guarantee. See benchmark-baseline.json.

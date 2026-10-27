@@ -1,0 +1,43 @@
+
+@'
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local AI models and caches
+.models/
+model_cache/
+.cache/
+huggingface_cache/
+
+# Local outputs and temporary test documents
+test_manual/
+redacted/
+outputs/
+evaluation-results*.json
+*.tmp
+*.log
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+'@ | Set-Content -Encoding utf8 .gitignore

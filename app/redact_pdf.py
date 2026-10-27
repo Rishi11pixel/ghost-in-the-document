@@ -1,0 +1,1 @@
+"""Apply real PDF redactions and scrub metadata."""

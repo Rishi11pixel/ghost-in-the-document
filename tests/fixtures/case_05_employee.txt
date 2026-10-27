@@ -1,0 +1,5 @@
+SYNTHETIC CASE 05 — employee record
+Employee: Taylor Fiction
+Email: taylor.fiction@example.invalid
+Phone: 9123456789
+Account no: 876543210987

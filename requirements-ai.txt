@@ -1,0 +1,3 @@
+-r requirements.txt
+# Optional open-source NER layer. PyTorch CPU is installed as needed by GLiNER.
+gliner>=0.2.20

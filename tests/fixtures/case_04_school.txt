@@ -1,0 +1,5 @@
+SYNTHETIC CASE 04 — school registration
+Student: Avery Demo
+Student ID: ABCDE1234F
+Contact: avery.demo@example.invalid
+School: Sample Public School

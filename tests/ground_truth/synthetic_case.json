@@ -1,0 +1,90 @@
+{
+  "fixture_set": "ghost-in-the-document-rung-1",
+  "synthetic_data_only": true,
+  "notes": [
+    "All identities and values are fictional test markers.",
+    "The .invalid email domain is reserved for invalid/example use.",
+    "Ground truth lists expected spans, not a claim that current code detects them.",
+    "DOCX comments and tracked changes will be added in a later fixture update."
+  ],
+  "expected_findings": [
+    {
+      "text": "Morgan Example",
+      "category": "NAME",
+      "locations": [
+        "TXT line 2",
+        "PDF page 1",
+        "DOCX paragraph 2",
+        "DOCX header"
+      ]
+    },
+    {
+      "text": "morgan.example@example.invalid",
+      "category": "EMAIL",
+      "locations": [
+        "TXT line 3",
+        "PDF page 1",
+        "DOCX paragraph 3",
+        "DOCX table row 2"
+      ]
+    },
+    {
+      "text": "+91 90000 12345",
+      "category": "PHONE",
+      "locations": [
+        "TXT line 4",
+        "PDF page 1",
+        "DOCX paragraph 4"
+      ]
+    },
+    {
+      "text": "1234 5678 9012",
+      "category": "ID_NUMBER",
+      "locations": [
+        "TXT line 5",
+        "PDF page 1",
+        "DOCX paragraph 5"
+      ]
+    },
+    {
+      "text": "ABCDE1234F",
+      "category": "ID_NUMBER",
+      "locations": [
+        "TXT line 6",
+        "PDF page 1",
+        "DOCX paragraph 6"
+      ]
+    },
+    {
+      "text": "42 Example Lane, Sample Nagar, Delhi 110001",
+      "category": "ADDRESS",
+      "locations": [
+        "TXT line 7",
+        "PDF page 1",
+        "DOCX paragraph 7"
+      ]
+    },
+    {
+      "text": "FAKE AUTHOR: Morgan Example",
+      "category": "METADATA",
+      "locations": [
+        "PDF metadata author",
+        "DOCX core_properties.author"
+      ]
+    },
+    {
+      "text": "FAKE EDITOR: Taylor Sample",
+      "category": "METADATA",
+      "locations": [
+        "DOCX core_properties.last_modified_by"
+      ]
+    },
+    {
+      "text": "FAKE-FOOTER-001",
+      "category": "HIDDEN_TEXT",
+      "locations": [
+        "DOCX footer"
+      ]
+    }
+  ]
+}

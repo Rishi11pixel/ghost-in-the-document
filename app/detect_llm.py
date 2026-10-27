@@ -1,0 +1,1 @@
+"""Local Ollama review layer. Never send document text to a remote API."""

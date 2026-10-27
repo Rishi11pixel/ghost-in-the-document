@@ -1,0 +1,6 @@
+SYNTHETIC CASE 08 — mixed identifiers
+Contact: mixed.case@example.invalid
+Phone: +91-90123-45678
+Aadhaar-like ID: 2222-3333-4444
+PAN-like ID: QWERT1234Z
+DOB: 31-12-2000

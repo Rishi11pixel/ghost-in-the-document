@@ -1,0 +1,1 @@
+"""Replace selected text in plain-text documents."""

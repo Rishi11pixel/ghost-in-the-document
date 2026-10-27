@@ -1,0 +1,1 @@
+"""Re-extract output and verify selected sensitive strings are absent."""

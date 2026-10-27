@@ -1,0 +1,4 @@
+SYNTHETIC CASE 06 — delivery label
+Recipient: Jordan Placeholder
+Delivery address: 99 Imaginary Road, Demo Colony, Bengaluru 560001
+Phone: 9988776655

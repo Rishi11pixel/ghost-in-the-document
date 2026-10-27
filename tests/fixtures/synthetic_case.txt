@@ -1,0 +1,7 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL PERSON
+Name: Morgan Example
+Email: morgan.example@example.invalid
+Phone: +91 90000 12345
+Aadhaar-like test ID: 1234 5678 9012
+PAN-like test ID: ABCDE1234F
+Address: 42 Example Lane, Sample Nagar, Delhi 110001

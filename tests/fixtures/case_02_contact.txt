@@ -1,0 +1,5 @@
+SYNTHETIC CASE 02 — contact card
+Name: Riley Sample
+Email: riley.sample@example.invalid
+Mobile: 9876543210
+DOB: 01/02/2001
